@@ -1,1 +1,1 @@
-#tatistical Analysis of Control trial outcome using R
+Statistical Analysis of Control trial outcome using R
